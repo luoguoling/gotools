@@ -1,0 +1,10 @@
+projectname: "项目:xx"
+webhook: ["https://oapi.dingtalk.com/robot/send?access_token=","https://oapi.dingtalk.com/robot/send?access_token="]
+dburl: ""
+dbport: 
+dbuser: "select"
+dbpwd:  ""
+dbname: ""
+platformAlias: ["xx","xk"]
+interval: 130
+
