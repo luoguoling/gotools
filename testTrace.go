@@ -33,3 +33,6 @@ func main()  {
 	}
 	wg.Wait()
 }
+go tool trace trace.out
+https://mp.weixin.qq.com/s/hIs318h6iJW2O9--QVqh6w#
+
